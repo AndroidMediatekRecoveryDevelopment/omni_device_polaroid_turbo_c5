@@ -1,0 +1,1 @@
+# android_device_polaroid_turbo_c5
